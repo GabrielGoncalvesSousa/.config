@@ -1,0 +1,24 @@
+[2022-09-03 03:51:44.199] [exthost] [info] Extension host with pid 19552 started
+[2022-09-03 03:51:44.200] [exthost] [info] Skipping acquiring lock for /home/gabriel/.config/Code - OSS/User/workspaceStorage/3cde1549f5fc54012098781c2dc91133.
+[2022-09-03 03:51:44.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-03 03:51:44.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-03 03:51:44.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-03 03:51:44.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-03 03:51:44.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-03 03:51:44.514] [exthost] [info] Eager extensions activated
+[2022-09-03 03:51:44.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-03 03:51:44.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-09-03 03:51:45.118] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/gabriel/.config/awesome/lain/widget/bat.lua' is in submodule 'lain'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

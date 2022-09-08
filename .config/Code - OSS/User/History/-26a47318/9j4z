@@ -1,0 +1,53 @@
+#Check Battery
+acpi -i
+
+#Mudar se o grub da load do boot options ou nao
+sudo nano/etc/default/grub
+
+#O login manager que usamos + o greeter para servir de display
+lightdm - /etc/lightdm/lightdm.conf
+lightdm-webkit2-greeter
+lighdtm-webkit-theme-aether - pesquisar pelo github que encontramos tudo de configs
+
+#Mudar configs dos inputs, comportamento do touchpad e assim
+sudo nano /etc/X11/xorg.conf.d/40-libinput.conf
+
+#O compositor que estamos a usar - uma branch do picom que tem animacoes
+~/.config/picom
+
+#Windows Manager - awesome
+~./config/awesome
+
+#Ligacoes INternet
+instalar iwd
+iwctl - por esse comando na prompt e fazer
+device list- listar os devices wirlesss que temos
+station "nome do device" scan - vai scannar as redes mas n vai dar print de nada
+station "nome do device" get-networks - vai buscar as redes que o scann apanhou
+station "nome do device" connect "nome da rede" - ligar a rede
+
+Ativar dhcp do iwd
+/etc/iwd/main.conf e escrever la EnableNetworkConfiguration=true e dar restart ao pc
+
+#Instalar ssh server
+instalar openssh - 
+
+#Instalar kitty e zsh , ver no arch wiki como mudar default shell
+
+#Instalar yay 
+git clone https://aur.archlinux.org/yay-git.git - assim temos acesso ao aur e temos mais packages
+mudar para a pasta e fazer makepkg -si para instalar o package 
+
+#Programas de terminal
+ranger - file manager
+htop - computer resources viweer
+neofetch - cena de mostrar bonito quando inicias o terminal
+bpytop - mesmo que htop so que mt mais bonito
+
+#Programas que nem sei
+nemo - file explorer
+brillo - cena da luminusidade 
+    sudo brillo -U 10 (decrease) , -A 10 (increase)
+
+
+

@@ -1,0 +1,8 @@
+[2022-09-01 17:45:44.796] [renderer1] [error] Git error
+[2022-09-01 17:57:01.623] [renderer1] [error] [text file model] handleSaveError(16) - exit - resulted in a save error: Error: Unable to write file '/usr/bin/compton-trans' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/bin/compton-trans') file:///usr/bin/compton-trans
+[2022-09-01 17:57:05.530] [renderer1] [error] Unable to read file '/usr/bin/compton-trans' (Error: File not modified since): Error: Unable to read file '/usr/bin/compton-trans' (Error: File not modified since)
+    at h.doReadFileStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20036)
+    at async v.doRead (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2759:42424)
+    at async v.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2759:42099)
+    at async kr.resolveFromFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2748:67842)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2759:36556

@@ -1,0 +1,4 @@
+[2022-09-03 04:38:32.031] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-09-03 04:38:33.924] [main] [info] Starting extension host with pid 1525 (fork() took 9 ms).
+[2022-09-03 04:56:48.989] [main] [info] Extension host with pid 1525 exited with code: 0, signal: null.
+[2022-09-03 04:56:48.993] [main] [info] Waiting for extension host with pid 1525 to exit.

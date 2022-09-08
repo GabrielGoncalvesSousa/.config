@@ -1,0 +1,6 @@
+[2022-09-01 17:45:40.414] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-09-01 17:45:42.074] [main] [info] Starting extension host with pid 49629 (fork() took 10 ms).
+[2022-09-01 18:09:35.081] [main] [info] Starting extension host with pid 55986 (fork() took 13 ms).
+[2022-09-01 18:10:42.841] [main] [info] Extension host with pid 55986 exited with code: 0, signal: null.
+[2022-09-03 03:36:14.625] [main] [info] Waiting for extension host with pid 49629 to exit.
+[2022-09-03 03:36:14.630] [main] [info] Extension host with pid 49629 exited with code: 0, signal: null.

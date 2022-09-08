@@ -1,0 +1,181 @@
+[2022-09-01T16:22:18.285Z] Log level: Info
+[2022-09-01T16:22:18.286Z] [info] Validating found git in: git
+[2022-09-01T16:22:18.300Z] [info] Using git 2.37.3 from git
+[2022-09-01T16:22:18.321Z] > git rev-parse --show-toplevel [6ms]
+[2022-09-01T16:22:18.321Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.332Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.332Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.357Z] > git rev-parse --show-toplevel [18ms]
+[2022-09-01T16:22:18.358Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.380Z] > git rev-parse --show-toplevel [16ms]
+[2022-09-01T16:22:18.380Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.386Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.386Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.393Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.399Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-09-01T16:22:18.402Z] [info] Open repository: /home/gabriel/.config/awesome
+[2022-09-01T16:22:18.413Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.413Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.418Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.418Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.425Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.425Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.431Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.431Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.439Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-01T16:22:18.439Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.447Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-01T16:22:18.447Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.454Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.454Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.461Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.461Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.468Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.468Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.475Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.475Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.482Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:22:18.482Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.523Z] > git status -z -uall [116ms]
+[2022-09-01T16:22:18.528Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-01T16:22:18.535Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-01T16:22:18.547Z] > git remote --verbose [3ms]
+[2022-09-01T16:22:18.547Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-09-01T16:22:18.558Z] > git config --get commit.template [2ms]
+[2022-09-01T16:22:18.658Z] > git status -z -uall [92ms]
+[2022-09-01T16:22:18.664Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-01T16:22:18.670Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-09-01T16:22:18.682Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-09-01T16:22:18.683Z] > git remote --verbose [2ms]
+[2022-09-01T16:22:18.691Z] > git config --get commit.template [1ms]
+[2022-09-01T16:22:18.822Z] > git rev-parse --show-toplevel [0ms]
+[2022-09-01T16:22:18.822Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:22:18.963Z] > git check-ignore -v -z --stdin [4ms]
+[2022-09-01T16:22:19.200Z] > git rev-parse --show-toplevel [4ms]
+[2022-09-01T16:22:19.216Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-09-01T16:22:19.224Z] [info] Open repository: /home/gabriel/.config/awesome/lain
+[2022-09-01T16:22:19.254Z] > git rev-parse --show-toplevel [4ms]
+[2022-09-01T16:22:19.267Z] > git status -z -uall [29ms]
+[2022-09-01T16:22:19.276Z] > git rev-parse --git-dir --git-common-dir [11ms]
+[2022-09-01T16:22:19.279Z] [info] Open repository: /home/gabriel/.config/awesome/freedesktop
+[2022-09-01T16:22:19.285Z] > git symbolic-ref --short HEAD [11ms]
+[2022-09-01T16:22:19.285Z] fatal: ref HEAD is not a symbolic ref
+[2022-09-01T16:22:19.292Z] > git status -z -uall [8ms]
+[2022-09-01T16:22:19.297Z] > git rev-parse HEAD [6ms]
+[2022-09-01T16:22:19.307Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-01T16:22:19.308Z] > git symbolic-ref --short HEAD [12ms]
+[2022-09-01T16:22:19.308Z] fatal: ref HEAD is not a symbolic ref
+[2022-09-01T16:22:19.312Z] > git remote --verbose [6ms]
+[2022-09-01T16:22:19.315Z] > git rev-parse HEAD [3ms]
+[2022-09-01T16:22:19.329Z] > git remote --verbose [7ms]
+[2022-09-01T16:22:19.330Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-09-01T16:22:19.337Z] > git config --get commit.template [9ms]
+[2022-09-01T16:22:19.338Z] > git config --get commit.template [2ms]
+[2022-09-01T16:22:19.794Z] > git check-ignore -v -z --stdin [4ms]
+[2022-09-01T16:22:19.831Z] > git rev-parse --show-toplevel [4ms]
+[2022-09-01T16:22:19.848Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-09-01T16:22:19.858Z] [info] Open repository: /home/gabriel/.config/awesome/lain/wiki
+[2022-09-01T16:22:19.871Z] > git status -z -uall [3ms]
+[2022-09-01T16:22:19.878Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-01T16:22:19.878Z] fatal: ref HEAD is not a symbolic ref
+[2022-09-01T16:22:19.884Z] > git rev-parse HEAD [2ms]
+[2022-09-01T16:22:19.895Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-01T16:22:19.895Z] > git remote --verbose [1ms]
+[2022-09-01T16:22:19.904Z] > git config --get commit.template [2ms]
+[2022-09-01T16:22:20.463Z] > git check-ignore -v -z --stdin [2ms]
+[2022-09-01T16:28:31.548Z] > git check-ignore -v -z --stdin [39ms]
+[2022-09-01T16:28:31.550Z] > git check-ignore -v -z --stdin [25ms]
+[2022-09-01T16:28:31.550Z] > git check-ignore -v -z --stdin [6ms]
+[2022-09-01T16:28:33.063Z] > git show --textconv :rc.lua [6ms]
+[2022-09-01T16:28:33.065Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [2ms]
+[2022-09-01T16:30:40.309Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-01T16:30:45.087Z] > git show --textconv :desktop.lua [5ms]
+[2022-09-01T16:30:45.089Z] > git ls-files --stage -- /home/gabriel/.config/awesome/freedesktop/desktop.lua [3ms]
+[2022-09-01T16:30:45.095Z] > git cat-file -s 676ebdb219304109149919e11292f71fba94a418 [1ms]
+[2022-09-01T16:30:58.709Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-01T16:30:58.709Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-01T16:31:06.731Z] > git check-ignore -v -z --stdin [6ms]
+[2022-09-01T16:31:06.732Z] > git check-ignore -v -z --stdin [2ms]
+[2022-09-01T16:31:11.160Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-01T16:31:15.049Z] > git show --textconv :widget/init.lua [16ms]
+[2022-09-01T16:31:15.052Z] > git ls-files --stage -- /home/gabriel/.config/awesome/lain/widget/init.lua [4ms]
+[2022-09-01T16:31:15.064Z] > git cat-file -s 57b86bb986b3c905e70a005bdb1dc30e82195765 [3ms]
+[2022-09-01T16:31:24.411Z] > git show --textconv :widget/bat.lua [15ms]
+[2022-09-01T16:31:24.414Z] > git ls-files --stage -- /home/gabriel/.config/awesome/lain/widget/bat.lua [4ms]
+[2022-09-01T16:31:24.432Z] > git cat-file -s 260f4b99dce6cd8aa56121d15665c341d4121722 [5ms]
+[2022-09-01T16:31:45.595Z] > git show --textconv :rc.lua [6ms]
+[2022-09-01T16:31:45.596Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [2ms]
+[2022-09-01T16:32:13.215Z] > git check-ignore -v -z --stdin [2ms]
+[2022-09-01T16:32:16.380Z] > git check-ignore -v -z --stdin [2ms]
+[2022-09-01T16:32:19.037Z] > git check-ignore -v -z --stdin [2ms]
+[2022-09-01T16:34:31.992Z] > git check-ignore -v -z --stdin [2ms]
+[2022-09-01T16:34:32.824Z] > git check-ignore -v -z --stdin [4ms]
+[2022-09-01T16:34:36.724Z] > git check-ignore -v -z --stdin [4ms]
+[2022-09-01T16:34:38.771Z] > git show --textconv :themes/powerarrow/theme.lua [5ms]
+[2022-09-01T16:34:38.772Z] > git ls-files --stage -- /home/gabriel/.config/awesome/themes/powerarrow/theme.lua [1ms]
+[2022-09-01T16:34:38.777Z] > git cat-file -s 984c9a8d6fc2386a9b10e048a6902972a1fbe70b [1ms]
+[2022-09-01T16:35:28.079Z] > git show --textconv :rc.lua [15ms]
+[2022-09-01T16:35:28.081Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [4ms]
+[2022-09-01T16:35:34.781Z] > git show --textconv :rc.lua.save [7ms]
+[2022-09-01T16:35:34.781Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua.save [1ms]
+[2022-09-01T16:35:44.911Z] > git show --textconv :rc.lua [20ms]
+[2022-09-01T16:35:44.914Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [7ms]
+[2022-09-01T16:35:48.760Z] > git show --textconv :rc.lua.save [11ms]
+[2022-09-01T16:35:48.762Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua.save [3ms]
+[2022-09-01T16:36:27.548Z] > git show --textconv :rc.lua [8ms]
+[2022-09-01T16:36:27.549Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [3ms]
+[2022-09-01T16:36:33.751Z] > git show --textconv :rc.lua.save1 [4ms]
+[2022-09-01T16:36:33.752Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua.save1 [1ms]
+[2022-09-01T16:36:34.065Z] > git check-ignore -v -z --stdin [3ms]
+[2022-09-01T16:36:34.679Z] > git status -z -uall [108ms]
+[2022-09-01T16:36:34.684Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-01T16:36:34.691Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-01T16:36:34.701Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-01T16:36:34.701Z] > git remote --verbose [1ms]
+[2022-09-01T16:36:34.710Z] > git config --get commit.template [1ms]
+[2022-09-01T16:36:35.065Z] > git show --textconv :rc.lua.save [6ms]
+[2022-09-01T16:36:35.066Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua.save [1ms]
+[2022-09-01T16:36:40.326Z] > git show --textconv :rc.lua [7ms]
+[2022-09-01T16:36:40.328Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [3ms]
+[2022-09-01T16:36:41.301Z] > git status -z -uall [115ms]
+[2022-09-01T16:36:41.308Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-01T16:36:41.314Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-09-01T16:36:41.325Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-01T16:36:41.326Z] > git remote --verbose [2ms]
+[2022-09-01T16:36:41.334Z] > git config --get commit.template [1ms]
+[2022-09-01T16:37:16.985Z] > git status -z -uall [109ms]
+[2022-09-01T16:37:16.992Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-01T16:37:16.998Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-01T16:37:17.009Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-09-01T16:37:17.010Z] > git remote --verbose [2ms]
+[2022-09-01T16:37:17.019Z] > git config --get commit.template [2ms]
+[2022-09-01T16:37:17.903Z] > git show --textconv :rc.lua.save1 [16ms]
+[2022-09-01T16:37:17.905Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua.save1 [4ms]
+[2022-09-01T16:37:22.998Z] > git show --textconv :rc.lua [7ms]
+[2022-09-01T16:37:22.999Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua [2ms]
+[2022-09-01T16:37:26.775Z] > git show --textconv :rc.lua.save1 [8ms]
+[2022-09-01T16:37:26.776Z] > git ls-files --stage -- /home/gabriel/.config/awesome/rc.lua.save1 [2ms]
+[2022-09-01T16:40:04.463Z] > git status -z -uall [105ms]
+[2022-09-01T16:40:04.468Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-01T16:40:04.474Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-09-01T16:40:04.483Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-01T16:40:04.483Z] > git remote --verbose [1ms]
+[2022-09-01T16:40:04.490Z] > git config --get commit.template [1ms]

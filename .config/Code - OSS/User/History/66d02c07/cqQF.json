@@ -1,0 +1,6 @@
+{
+    "workbench.activityBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}

@@ -1,0 +1,8 @@
+[2022-09-03 06:23:30.848] [exthost] [info] Extension host with pid 42807 started
+[2022-09-03 06:23:30.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-03 06:23:30.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-03 06:23:30.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-03 06:23:31.009] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-03 06:23:31.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-03 06:23:31.124] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-09-03 06:23:31.126] [exthost] [info] Extension host with pid 42807 exiting with code 0
